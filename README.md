@@ -40,8 +40,7 @@ luggage_boot_size equal to 1 represents smallest luggage boot size while luggage
 
 >And at last we predict the popularity of the test data.
 
->I get the accuracy of 97.96%
-
+>I get the accuracy of 94.17%
 # Tool:
 
  - Jupyter
